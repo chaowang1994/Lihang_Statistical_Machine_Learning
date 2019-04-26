@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19133fe0-e31d-4eb0-8cd8-25e315a41a88" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lihang_book_algorithm/knn/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_implement_try../02-kNN/knn.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Debug/Sign.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Debug/Sign.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Debug/Sign.exp" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Debug/Sign.exp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Debug/Sign.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Debug/Sign.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Debug/Sign.lib" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Debug/Sign.lib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Debug/Sign.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Debug/Sign.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign.sdf" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign.sdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign.sln" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign.v11.suo" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign.v11.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/Debug/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/Debug/CL.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/Debug/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/Debug/CL.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/Debug/Sign.lastbuildstate" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/Debug/Sign.lastbuildstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/Debug/Sign.log" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/Debug/Sign.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/Debug/Sign.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/Debug/Sign.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/Debug/cl.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/Debug/cl.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/Debug/link-cvtres.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/Debug/link-cvtres.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/Debug/link-cvtres.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/Debug/link-cvtres.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/Debug/link-rc.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/Debug/link-rc.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/Debug/link-rc.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/Debug/link-rc.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/Debug/link.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/Debug/link.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/Debug/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/Debug/link.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/Debug/link.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/Debug/link.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/Debug/sign.obj" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/Debug/sign.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/Debug/vc110.idb" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/Debug/vc110.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/Debug/vc110.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/Debug/vc110.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/Sign.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/Sign.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/Sign.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/Sign.vcxproj.filters" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/sign.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/sign.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/sign.h" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/sign.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/x64/Release/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/x64/Release/CL.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/x64/Release/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/x64/Release/CL.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/x64/Release/Sign.Build.CppClean.log" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/x64/Release/Sign.Build.CppClean.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/x64/Release/Sign.lastbuildstate" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/x64/Release/Sign.lastbuildstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/x64/Release/Sign.log" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/x64/Release/Sign.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/x64/Release/Sign.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/x64/Release/Sign.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/x64/Release/cl.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/x64/Release/cl.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/x64/Release/link-cvtres.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/x64/Release/link-cvtres.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/x64/Release/link-cvtres.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/x64/Release/link-cvtres.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/x64/Release/link-rc.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/x64/Release/link-rc.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/x64/Release/link-rc.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/x64/Release/link-rc.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/x64/Release/link.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/x64/Release/link.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/x64/Release/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/x64/Release/link.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/x64/Release/link.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/x64/Release/link.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/x64/Release/sign.obj" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/x64/Release/sign.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/x64/Release/vc110.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/Sign/x64/Release/vc110.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/x64/Release/Sign.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/x64/Release/Sign.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/x64/Release/Sign.exp" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/x64/Release/Sign.exp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/x64/Release/Sign.lib" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/x64/Release/Sign.lib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/x64/Release/Sign.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/Sign/x64/Release/Sign.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/adaboost.py" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/adaboost.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/adaboost_cpp.py" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/AdaBoost/adaboost_cpp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/data/adult-census-income.zip" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/data/adult-census-income.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/data/adult-census-income/adult.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/data/adult-census-income/adult.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/data/iris-species.zip" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/data/iris-species.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/data/iris-species/Iris.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/data/iris-species/Iris.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/data/iris-species/database.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/data/iris-species/database.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/data/sample_submission.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/data/sample_submission.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/data/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/data/test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/data/train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/data/train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/data/train_binary.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/data/train_binary.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/decision_tree/decision_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/decision_tree/decision_tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/extract_features.py" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/extract_features.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/features/test.vec.npy" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/features/test.vec.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/features/train.vec.npy" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/features/train.vec.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/hmm/hmm.py" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/hmm/hmm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/hog.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/hog.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/knn/distance_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/knn/distance_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/knn/knn.py" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/knn/knn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/logistic_regression/binary_perceptron.py" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/logistic_regression/binary_perceptron.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/logistic_regression/competation.py" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/logistic_regression/competation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/logistic_regression/logistic_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/logistic_regression/logistic_regression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/logistic_regression/result.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/logistic_regression/result.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/maxENT/maxENT.py" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/maxENT/maxENT.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/model/perceptron_binary_model.npy" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/model/perceptron_binary_model.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/naive_bayes/naive_bayes.py" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/naive_bayes/naive_bayes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/perceptron/binary_perceptron.py" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/perceptron/binary_perceptron.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/softmax/softmax.py" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/softmax/softmax.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/svm/generate_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/svm/generate_dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/svm/svm.py" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/svm/svm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lihang_book_algorithm/weibo.png" beforeDir="false" afterPath="$PROJECT_DIR$/lihang_book_algorithm/weibo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_implement_try../01-perceptron/binary_perceptron.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_implement_try../01-perceptron/binary_perceptron.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_implement_try../data/adult-census-income.zip" beforeDir="false" afterPath="$PROJECT_DIR$/my_implement_try../data/adult-census-income.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_implement_try../data/adult-census-income/adult.csv" beforeDir="false" afterPath="$PROJECT_DIR$/my_implement_try../data/adult-census-income/adult.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_implement_try../data/iris-species.zip" beforeDir="false" afterPath="$PROJECT_DIR$/my_implement_try../data/iris-species.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_implement_try../data/iris-species/Iris.csv" beforeDir="false" afterPath="$PROJECT_DIR$/my_implement_try../data/iris-species/Iris.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_implement_try../data/iris-species/database.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/my_implement_try../data/iris-species/database.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_implement_try../data/sample_submission.csv" beforeDir="false" afterPath="$PROJECT_DIR$/my_implement_try../data/sample_submission.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_implement_try../data/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/my_implement_try../data/test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_implement_try../data/train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/my_implement_try../data/train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_implement_try../data/train_binary.csv" beforeDir="false" afterPath="$PROJECT_DIR$/my_implement_try../data/train_binary.csv" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my_implement_try../02-kNN/knn.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2961">
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my_implement_try../02-kNN/KD-tree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1089">
+              <caret line="271" column="34" selection-start-line="271" selection-start-column="34" selection-end-line="271" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/my_implement_try../03-logistic_regression/binary_perceptron.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my_implement_try../02-kNN/knn.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="96">
+                <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>get_hog_features</find>
+      <find>k</find>
+      <find>get_split_dim</find>
+      <find>build_kdtree</find>
+      <find>euclid_distance</find>
+      <find>findMedian</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/my_implement_try../02-kNN/knn.md" />
+        <option value="$PROJECT_DIR$/my_implement_try../02-kNN/knn.py" />
+        <option value="$PROJECT_DIR$/my_implement_try../02-kNN/KD-tree.py" />
+        <option value="$PROJECT_DIR$/my_implement_try../03-logistic_regression/binary_perceptron.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="927" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Lihang_Statistical_Machine_Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lihang_Statistical_Machine_Learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lihang_Statistical_Machine_Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lihang_Statistical_Machine_Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="my_implement_try.." type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lihang_Statistical_Machine_Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lihang_Statistical_Machine_Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="my_implement_try.." type="462c0819:PsiDirectoryNode" />
+              <item name="02-kNN" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lihang_Statistical_Machine_Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lihang_Statistical_Machine_Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="my_implement_try.." type="462c0819:PsiDirectoryNode" />
+              <item name="03-logistic_regression" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19133fe0-e31d-4eb0-8cd8-25e315a41a88" name="Default Changelist" comment="" />
+      <created>1554651998257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554651998257</updated>
+      <workItem from="1554651999757" duration="20546000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20546000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1134477" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.26241902" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/my_implement_try../02-kNN/knn.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="96">
+            <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_implement_try../02-kNN/knn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2961">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_implement_try../02-kNN/KD-tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1089">
+          <caret line="271" column="34" selection-start-line="271" selection-start-column="34" selection-end-line="271" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_implement_try../03-logistic_regression/binary_perceptron.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

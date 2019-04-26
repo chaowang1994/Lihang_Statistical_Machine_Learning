@@ -1,23 +1,22 @@
-#encoding=utf-8
+# coding:utf-8
 
 import pandas as pd
 import numpy as np
 import cv2
-import random
 import time
 
-from sklearn.cross_validation import train_test_split
+from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 
 
-# 利用opencv获取图像hog特征
+# 利用 opencv 获取图像 hog 特征
 def get_hog_features(trainset):
-    features = []
 
+    features = []
     hog = cv2.HOGDescriptor('../hog.xml')
 
     for img in trainset:
-        img = np.reshape(img,(28,28))
+        img = np.reshape(img, (28, 28))
         cv_img = img.astype(np.uint8)
 
         hog_feature = hog.compute(cv_img)
@@ -25,17 +24,18 @@ def get_hog_features(trainset):
         features.append(hog_feature)
 
     features = np.array(features)
-    features = np.reshape(features,(-1,324))
+    features = np.reshape(features, (-1, 324))
 
     return features
 
-def Predict(testset,trainset,train_labels):
-    predict = []
+
+def predict(testset, trainset, train_labels):
+    _predict = []
     count = 0
 
     for test_vec in testset:
         # 输出当前运行的测试用例坐标，用于测试
-        print count
+        #print(count)
         count += 1
 
         knn_list = []       # 当前k个最近邻居
@@ -84,44 +84,43 @@ def Predict(testset,trainset,train_labels):
         # 找出最大选票标签
         for i in range(class_total):
             if mmax == class_count[i]:
-                predict.append(i)
+                _predict.append(i)
                 break
 
-    return np.array(predict)
+    return np.array(_predict)
 
-k = 10
 
 if __name__ == '__main__':
-
-    print 'Start read data'
-
+    k = 10
+    print('Start read data')
     time_1 = time.time()
 
-    raw_data = pd.read_csv('../data/train.csv',header=0)
+    raw_data = pd.read_csv('../data/train.csv', header=0)
     data = raw_data.values
 
-    imgs = data[0::,1::]
-    labels = data[::,0]
+    imgs = data[0::, 1::]
+    labels = data[::, 0]
 
     features = get_hog_features(imgs)
 
     # 选取 2/3 数据作为训练集， 1/3 数据作为测试集
-    train_features, test_features, train_labels, test_labels = train_test_split(features, labels, test_size=0.33, random_state=23323)
+    train_features, test_features, train_labels, test_labels = \
+        train_test_split(features, labels, test_size=0.33, random_state=23323)
     # print train_features.shape
     # print train_features.shape
 
     time_2 = time.time()
-    print 'read data cost ',time_2 - time_1,' second','\n'
+    print('read data cost ', time_2 - time_1, ' second', '\n')
 
-    print 'Start training'
-    print 'knn do not need to train'
+    print('Start training')
+    print('knn do not need to train')
     time_3 = time.time()
-    print 'training cost ',time_3 - time_2,' second','\n'
+    print('training cost ', time_3 - time_2, ' second', '\n')
 
-    print 'Start predicting'
-    test_predict = Predict(test_features,train_features,train_labels)
+    print('Start predicting')
+    test_predict = predict(test_features, train_features, train_labels)
     time_4 = time.time()
-    print 'predicting cost ',time_4 - time_3,' second','\n'
+    print('predicting cost ', time_4 - time_3, ' second', '\n')
 
-    score = accuracy_score(test_labels,test_predict)
-    print "The accruacy socre is ", score
+    score = accuracy_score(test_labels, test_predict)
+    print("The accruacy socre is ", score)
